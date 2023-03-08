@@ -1,2 +1,3 @@
-# henry-Curso
-Este es un repositorio de prueba del Modulo 2 de Henry
+johan Velandia 
+
+Este proyecto es una prueba de como crear y clonar un repositorio de Github a mi local xd. 
